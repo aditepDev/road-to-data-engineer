@@ -36,6 +36,6 @@ B --> C[Load]
 ###  ELT
 ```mermaid
 graph LR
-A[Extract] --> B[Transform]
-B --> C[Load]
+A[Extract] --> B[Load]
+B --> C[Transform]
 ```
